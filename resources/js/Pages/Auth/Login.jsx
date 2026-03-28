@@ -142,10 +142,7 @@ export default function Login({ status, canResetPassword }) {
                     </form>
 
                     <p className="text-center text-sm text-gray-400 font-medium">
-                        Belum punya akun?{' '}
-                        <Link href={route('register')} className="font-black text-teal-600 hover:text-teal-700">
-                            Daftar
-                        </Link>
+                        Sistem Absensi Internal. Hubungi HRD untuk masalah akun.
                     </p>
                 </div>
             </div>
